@@ -1,4 +1,4 @@
-his README is a background information for each of the zip files stored in this repository.
+This README is a background information for each of the zip files stored in this repository.
 Each zip file is a complete project, and the first line of the will share which IDE it was coded
 in if the user wishes to open it the way I coded it.
 
@@ -84,3 +84,9 @@ In this hypothetical assignment, Artemis Financial is a financial consulting com
 
 DriverPassProjectDocs:
 In this hypothetical assignment, DriverPass is a tech start-up that allows users to schedule driving practice, as well as a few other features. I feel like my UML Class Diagram was effective, however, I also feel like I could have included hypothetical methods to better show how the various classes interacted. Those extra methods would have also allowed me to better iterate on the organization and class structure, in case I felt like the classes needed an extra step for data management purposes. I attempted to best account for any and all potential requests of the system as robustly as I could, however as there were no signifiers as to requirements other than what was given, I feel like I could only do an abstracted early design approach, as opposed to approaching an actual design that I could plan around. This leads me to my final topic of discussion on this assignment. The assignment itself is poorly designed to inspire an organized and well-designed output for UML, the clients wishes were wishy-washy at best, and plainly undefined at worst. Seeing as how my design process is iterative, with some amount of back and forth between parties, this assignment was doomed to be a mediocre mess at best.
+
+CS340FinalProject:
+This project is coded in Python using Jupiter's Notebook. It uses Plotly's DASH framework, and the zip contains a 'README' that contains the reflection of the project. That file is filled with vitriol because I was required to muddy and disrespect the purpose of a readme.
+
+CS370FinalProject:
+This project is coded in Python using Jupiter's Notebook. It is built on Keros's Artificial Neural Network script, and uses proprietary SNHU files to help define and develop a Game AI that will supposedly solve the maze 100% of the time. Long story short, I have a lot of problems with the current development of Artificial Neural Networks, and my feelings on this project are wholly negative.
